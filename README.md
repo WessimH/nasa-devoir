@@ -1,5 +1,5 @@
 # apod-app
-
+## Replace the API KEY with you own  in app.vue
 ## Project setup
 ```
 npm install
